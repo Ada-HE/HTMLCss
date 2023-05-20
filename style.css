@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+}
+h2 {
+    color: blueviolet;
+}
+#imagen {
+   width: 250px;
+   padding: 50px;
+}
+h1{
+    background-color: yellow;
+}
+th{
+    background-color: teal;
+}
+table{
+    color: brown;
+    background-color: gray
+    ;
+}
